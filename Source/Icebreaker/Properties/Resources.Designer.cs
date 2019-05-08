@@ -232,7 +232,7 @@ namespace Icebreaker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 👋 Hi there!.
+        ///   Looks up a localized string similar to 👋 Hi there from Build!.
         /// </summary>
         internal static string SalutationTitleText {
             get {
