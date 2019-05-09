@@ -194,7 +194,7 @@
     <comment>Button text to resume pairings</comment>
   </data>
   <data name="SalutationTitleText" xml:space="preserve">
-    <value>👋 Hi there</value>
+    <value>👋 Hi there from Build</value>
     <comment>This is the text for the salutation in the adaptive cards when the bot is installed to a team and also when new users are added to the team</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
